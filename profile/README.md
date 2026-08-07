@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <a href="alissonsartori33@gmail.com" target="_blank">
+  <a href="mailto:alissonsartori33@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alisson-sebastian-sartori/" target="_blank">
@@ -72,7 +72,7 @@
 
 <div align="center">
 <br>
-  <p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alissonsartori}/count.svg" /></p> 
+  <p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/alissonsartori/count.svg" /></p>
 <br>
 </div>
